@@ -58,7 +58,7 @@ Import following commands in text editor:
                        
 	import seaborn as sns
 	import numpy as np
-import pandas as pd
+        import pandas as pd
 	import matplotlib.pyplot as plt
 	from sklearn.svm import SVC
 	from sklearn import svm
